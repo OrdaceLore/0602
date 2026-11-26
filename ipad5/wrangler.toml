@@ -1,0 +1,4 @@
+name = "ipad5"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+routes = [{ pattern = "ipad5.ordacelore.com", custom_domain = true }]
